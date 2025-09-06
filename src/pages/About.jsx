@@ -1,5 +1,5 @@
 import React from 'react';
-import profileImage from '../assets/me.JPG';
+import profileImage from '../assets/me.jpg';
 
 const About = () => {
   const skills = {
