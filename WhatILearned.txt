@@ -1,0 +1,14 @@
+AWS:
+I learned how to deploy a website using AWS Amplify
+I learned how to create an AWS lambda function paired with
+an API Gateway to create a contact form that sends emails to a personal account from my website.
+(Used a REST API for this!)
+
+JS:
+learned how to use the Anime.js library to create cool background animations
+
+nodeJS:
+obviously learned how to deploy a dev environment and use nodejs for testing the react app
+
+React:
+Just more experience with creating UI elements and a React based website.
